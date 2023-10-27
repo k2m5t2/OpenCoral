@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "coral")(type "KiCad")(uri "C:/Users/G14/Documents/GitHub/coral_kicad/coral.pretty")(options "")(descr ""))
+)
